@@ -1,3 +1,3 @@
 # demo
 This is my first Git repository. <br>
-Author - Turjjo Paul
+Author - Turjjo Paul (student)
